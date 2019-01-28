@@ -4,7 +4,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 /**
- * @author 高尚
+ * @author guanth
  * @version 1.0
  * @date 2019/1/2714:59
  * @desc

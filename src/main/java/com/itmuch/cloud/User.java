@@ -4,7 +4,7 @@ import javax.persistence.*;
 import java.math.BigDecimal;
 
 /**
- * @author 高尚
+ * @author guanth
  * @version 1.0
  * @date 2019/1/2714:56
  * @desc
