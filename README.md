@@ -10,5 +10,14 @@
 # Spring Initializr快速创建springboot项目
     http://start.spring.io/
 # RestTemplate
+# actuator
+# 配置文件引入pom文件声明的变量
+    #info:
+    #  app:
+    #    name: @project.artifactId@
+    #    encoding: @project.build.sourceEnCoding@
+    #    java:
+    #      source: @java.version@
+    #      target: @java.version@
 
 
