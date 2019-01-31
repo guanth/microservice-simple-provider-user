@@ -10,6 +10,14 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @desc
  * @update update by @author on @date
  */
+/**
+* @author guanth
+* @date 2019-01-28 16:43:28
+* @version v1.0
+* @desc
+* @update
+*
+*/
 @SpringBootApplication
 public class ProviderUserApplication {
     public static void main(String[] args) {
